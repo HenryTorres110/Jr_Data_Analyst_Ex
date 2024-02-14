@@ -29,7 +29,7 @@ after doing so, run the following command to install all the requirements we use
 
 5.- Now that you are all set navigate to the following path using cd in your terminal: (venv) cd Parent_Directory/Luis_Project/mysite. There you will have a python file called *manage.py*, which you will use to run our server. 
 
-6.- Now you will need to run the following command: python manage.py runserver, if everything was done correctly you will receive some information that looks like this:
+6.- Now you will need to run the following command: **python manage.py runserver**, if everything was done correctly you will receive some information that looks like this:
 
 *Watching for file changes with StatReloader
 Performing system checks...
