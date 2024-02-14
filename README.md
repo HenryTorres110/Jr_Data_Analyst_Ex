@@ -44,4 +44,4 @@ You will just need to copy and paste the *development server* (in our example is
 
 7.- After you pressed the button you should see another of our views where the data that has been introduced is show in a list fashion. 
 
-You can inspect any module you wish and even though we are not good enough web designers to make a beautiful CSS, hopefully it makes to the fundamentals requirements. Thanks in advance. 
+You can inspect any module you wish and even though we are not good enough web designers to make a beautiful CSS, hopefully it meets the fundamentals requirements. Thanks in advance.
