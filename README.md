@@ -3,7 +3,7 @@
 Hello everyone! In this tutorial we are going to explain step by step what you need to know in order to get running our web application
 using **Django**.
 
-Our web application is a form with two fields. We use SQLite database system and we are able to retreive all the information from our schema
+Our web application is a form with two fields. We use SQLite database system and we are able to retrieve all the information from our schema
 using another view of our app. In the entry fields, we will have basic error handling so the user inputs are valid data.
 
 ## Instructions to run web application locally
@@ -16,7 +16,7 @@ the **zip file** option.
 file, remove any extra parent directory so you only have something like this: Parent_Directory/Luis_Project.
 
 3.- Before going any further you should check that you have any version from *Python 3.9.6* or superior running in your computer. This will increase the chances of preventing
-compatibility issues. If you are using a machine that doesn´t have python interpreter, please follow the next link to download the lastest version of python: [Download Python Here](https://www.python.org/downloads/).
+compatibility issues. If you are using a machine that doesn´t have python interpreter, please follow the next link to download the latest version of python: [Download Python Here](https://www.python.org/downloads/).
 
 4.- Now, it is **strongly suggested** that you generate a virtual environment in order to avoid conflicts between requirements of the packages and modules of our application and the ones in your computer. 
 To do so please follow the instructions listed [here](https://docs.python.org/3/tutorial/venv.html) and when you are done creating your virtual environment and having activate it, create your virtual environment in the same path as *Luis_project* so you would have a structure like this one: 
