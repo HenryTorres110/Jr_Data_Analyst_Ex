@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>Jr Data Analyst Exercise</title>
+</head>
+<body>
+	<div>
+		<h1>Database Updated with Last Entries:</h1>
+	</div>
+	<div>
+		
+	</div>
+	<ul>
+	{% for row in sub %}
+	<li>{{row.name}}, {{row.email}}</li>
+	{% endfor %}
+	</ul>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Home Page</title>
+</head>
+<body>
+	<h1>Welcome</h1>
+	<h2>Luis´s submission form</h2>
+	<form method="post" action="">
+		{% csrf_token %}
+		{{form.as_p}}
+		<button type="submit", name="save">Add data</button>
+	</form>
+</body>	
+</html>
+
