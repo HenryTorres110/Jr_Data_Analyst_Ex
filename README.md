@@ -40,7 +40,7 @@ Django version 4.2.10, using settings 'mysite.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK*
 
-You will just need to copy and paste the *development server* (in our example is http://127.0.0.1:8000/) into your favorite browser. You should see a simple form asking for a name and a email along with some text and a button to send the data. 
+You will just need to copy and paste the *development server* (in our example is http://127.0.0.1:8000/) into your favorite browser. You should see a simple form asking for a name and an email along with some text and a button to send the data. 
 
 7.- After you pressed the button you should see another of our views where the data that has been introduced is show in a list fashion. 
 
