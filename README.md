@@ -25,7 +25,7 @@ Parent_Directory
 - Luis_Project
 - Virtual_Env
 
-after doing so, run the following command to install all the requirements we use for this specific project: **pip install -r requirements.txt** (First navigate to Luis_Project/mysite, in that directory is the .txt file). The .txt file is available for you to see what dependencies and versions were necesarry to build this project. 
+after doing so, run the following command to install all the requirements we use for this specific project: **pip install -r requirements.txt** (First navigate to Luis_Project/mysite, in that directory is the .txt file). The .txt file is available for you to see what dependencies and versions were necessary to build this project. 
 
 5.- Now that you are all set navigate to the following path using cd in your terminal: (venv) cd Parent_Directory/Luis_Project/mysite. There you will have a python file called *manage.py*, which you will use to run our server. 
 
