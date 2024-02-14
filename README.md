@@ -1,1 +1,1 @@
-# Jr_Data_Analyst_Ex
+# Jr_Data_Analyst_Exercise
