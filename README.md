@@ -19,7 +19,7 @@ file, remove any extra parent directory so you only have something like this: Pa
 compatibility issues. If you are using a machine that doesn´t have python interpreter, please follow the next link to download the latest version of python: [Download Python Here](https://www.python.org/downloads/).
 
 4.- Now, it is **strongly suggested** that you generate a virtual environment in order to avoid conflicts between requirements of the packages and modules of our application and the ones in your computer. 
-To do so please follow the instructions listed [here](https://docs.python.org/3/tutorial/venv.html) and when you are done creating your virtual environment and having activate it, create your virtual environment in the same path as *Luis_project* so you would have a structure like this one: 
+To do so please follow the instructions listed [here](https://docs.python.org/3/tutorial/venv.html) and when you are done getting ready to set your virtual environment create and activate your virtual environment in the same path as *Luis_project* so you would have a structure like this one: 
 
 Parent_Directory
 - Luis_Project
