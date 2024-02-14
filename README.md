@@ -12,7 +12,7 @@ using another view of our app. In the entry fields, we will have basic error han
 For the sake of simplicity we would take the first option as it is the easiest way. You can download the zip file by clicking the green button at the right corner of the code area and select
 the **zip file** option.
 
-2.- Once you have your zip file you must unzip it somewhere in your computer´s disk. We **strongly recommend** to do it in the Desktop. Once you decompress your
+2.- Once you have your zip file you must unzip it somewhere in your computer´s disk. We **strongly recommend** to do it on the Desktop. Once you decompress your
 file, remove any extra parent directory so you only have something like this: Parent_Directory/Luis_Project.
 
 3.- Before going any further you should check that you have any version from *Python 3.9.6* or superior running in your computer. This will increase the chances of preventing
