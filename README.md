@@ -46,4 +46,4 @@ You will just need to copy and paste the *development server* (in our example is
 
 You can inspect any module you wish and even though we are not good enough web designers to make a beautiful CSS, hopefully it meets the fundamentals requirements. Thanks in advance.
 
-*If I can count with more time to continue developing the web app with the extras please tell me to begin inmediatly*
+*If I can count with more time to continue developing the web app with the extra requirements please let me know to begin inmediatly*
